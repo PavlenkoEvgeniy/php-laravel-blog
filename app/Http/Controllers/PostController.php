@@ -13,6 +13,6 @@ class PostController extends Controller
 
     public function show()
     {
-        return view('posts.single');
+        return view('posts.show');
     }
 }
