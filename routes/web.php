@@ -17,6 +17,7 @@ Route::get('/', 'PostController@index')->name('home');
 Route::get('/article/{slug}', 'PostController@show')->name('posts.single');
 Route::get('/category/{slug}', 'CategoryController@show')->name('categories.single');
 Route::get('/tag/{slug}', 'TagController@show')->name('tags.single');
+Route::get('/search', 'SearchController@index')->name('search');
 
 Route::group(['prefix' => 'admin', 'namespace' => 'Admin', 'middleware' => 'admin'], function () {
     Route::get('/', 'MainController@index')->name('admin.index');
