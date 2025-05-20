@@ -4,7 +4,8 @@ A full-featured blog platform built with Laravel framework.
 
 **✨ Tech Stack**:  
 - 🐘 PHP 8  
-- 🚀 Laravel 10  
+- 🚀 Laravel 10
+- 🐬 MySQL (database)  
 - 🔗 eloquent-sluggable (SEO-friendly URLs)  
 - 🎨 Bootstrap + jQuery (frontend)  
 - 👔 AdminLTE (admin dashboard)  
