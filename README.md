@@ -23,7 +23,7 @@ A full-featured blog platform built with Laravel framework.
 
 1. **Clone repository**:  
 ```bash
-git clone https://github.com/yourusername/laravel-blog.git
+https://github.com/PavlenkoEvgeniy/php-laravel-blog.git
 ```  
 
 2. **Install dependencies**:  
