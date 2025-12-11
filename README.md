@@ -1,4 +1,4 @@
-# ✍️ Laravel Blog System  
+# ✍️ Laravel Blog 
 
 A full-featured blog platform built with Laravel framework.  
 
